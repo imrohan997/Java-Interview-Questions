@@ -1,5 +1,5 @@
 /**
- * Threading by extending Thread class and Overriding run() method
+ * Threading by extending Thread class and Overriding run() method.
  */
 public class MyThread extends Thread {
 
